@@ -1,4 +1,4 @@
-FROM node:17.1.0
+FROM node:16.15.1
 
 WORKDIR /app/medusa
 
